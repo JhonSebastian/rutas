@@ -12,4 +12,5 @@ mancera,popular,rc,0.15,red,0
 popular,villa_aurora,rc,0.13,red,0		
 villa_aurora,la_estrella,rc,0.23,red,1		
 la_estrella,guaratara,rc,0.14,red,0		
-guaratara,bachue1,rc,0.36,red,0		
+guaratara,bachue1,rc,0.36,red,0
+bachue1,normal,rc,0.36,red,0
