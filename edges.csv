@@ -1,0 +1,15 @@
+node1,node2,trail,distance,color,estimate		
+bachue1,independencia,rs,0.3,red,0		
+independencia,acacias,rs,0.21,red,0		
+acacias,bachue2,rs,0.11,red,0		
+bachue2,centro,rs,0.18,red,0		
+centro,nutivara1,rs,0.21,red,0		
+nutivara1,nutivara2,rs,0.12,red,0		
+nutivara2,cimarron,rs,0.39,red,0		
+morichal,tiza,rc,0.7,red,0		
+tiza,mancera,rc,0.04,red,0		
+mancera,popular,rc,0.15,red,0		
+popular,villa_aurora,rc,0.13,red,0		
+villa_aurora,la_estrella,rc,0.23,red,1		
+la_estrella,guaratara,rc,0.14,red,0		
+guaratara,bachue1,rc,0.36,red,0		
