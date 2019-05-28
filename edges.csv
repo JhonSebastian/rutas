@@ -1,4 +1,8 @@
 node1,node2,trail,distance,color,estimate		
-independencia,normal,rc,0.36,blue,0
-normal,prados_de_codem,rc,0.36,red,0
-prados_de_codem,retiro,rc,0.36,yellow,0
+juan_humberto,dorado_alto,rc,0.36,blue,0
+juan_humberto,nutivara,rc,0.36,red,0
+nutivara,dorado_alto,rc,0.36,yellow,0
+nutivara,colinas_1,rc,0.36,yellow,0
+colinas_1,colinas_2,rc,0.36,red,0
+nutivara,indepen_2,rc,0.36,blue,0
+indepen_2,colinas_1,rc,0.36,yellow,0
