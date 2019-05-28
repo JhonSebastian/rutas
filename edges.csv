@@ -6,3 +6,9 @@ nutivara,colinas_1,rc,0.36,yellow,0
 colinas_1,colinas_2,rc,0.36,red,0
 nutivara,indepen_2,rc,0.36,blue,0
 indepen_2,indepen_1,rc,0.36,yellow,0
+indepen_1,playon,rs,0.36,blue,0
+playon,playon_2,rs,0.36,red,0
+playon_2,bancarios,rc,0.36,red,0
+bancarios,dorado_alto,rs,0.36,blue,0
+dorado_alto,bosque,rs,0.36,yellow,0
+juan_humberto,bosque,rs,0.36,blue,0
