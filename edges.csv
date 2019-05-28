@@ -12,3 +12,7 @@ playon_2,bancarios,rc,0.36,red,0
 bancarios,dorado_alto,rs,0.36,blue,0
 dorado_alto,bosque,rs,0.36,yellow,0
 juan_humberto,bosque,rs,0.36,blue,0
+coperativo,pablo_emi,rs,0.36,red,0
+pablo_emi,union,rc,0.36,blue,0
+union,coperativo,rs,0.36,violet,0
+bosque,mancera,rs,0.36,violet,0
